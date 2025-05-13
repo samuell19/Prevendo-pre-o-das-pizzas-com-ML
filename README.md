@@ -30,5 +30,5 @@ Este projeto utiliza **Python**, **Streamlit**, **Pandas** e **Scikit-learn** pa
 
 1. Certifique-se de ter o docker instalado no seu sistema (versão >= 28.0.4)
 2. Contrua a imagem Docker: docker build -t projeto-ml .
-3. Rode o container: docker run -p 8501:8501 projeto-ml da uma melhorada nessa parte do docker
+3. Rode o container: docker run -p 8501:8501 projeto-ml 
    
